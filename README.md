@@ -1,5 +1,7 @@
 #### Hi there, I'm Tumen
 
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+
 ##### Fullstack Developer from Russia
 
 ##### My stack
