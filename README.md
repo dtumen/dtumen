@@ -30,7 +30,7 @@
 
 ---
 ### Codewars stats:
-<a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/dtumenka/badges/large"></a>
+<a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/Tumen_Dambaev/badges/large"></a>
 
 ---
 ### GitHub stats:
