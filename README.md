@@ -1,6 +1,6 @@
 #### Hi there, I'm Tumen
 
-<div id="socials" align="center">
+<div id="socials" align="left">
 	<a href="https://www.linkedin.com/in/tumen-dambaev">
 		<img src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/>
 	</a>
