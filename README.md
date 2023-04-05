@@ -25,7 +25,6 @@
 
 ###### Other tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&amp;logo=Git&amp;logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000.svg?style=flat&amp;logo=Figma&amp;logoColor=F24E1E)
 
 ---
 ### Codewars stats:
