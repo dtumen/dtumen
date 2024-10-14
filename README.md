@@ -25,6 +25,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat&amp;logo=Tailwind-CSS&amp;logoColor=white)
 ![Styled-components](https://img.shields.io/badge/Styled%E2%80%93components-DB7093.svg?style=flat&amp;logo=Styled-components&amp;logoColor=black)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785.svg?style=flat&amp;logo=Storybook&amp;logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9.svg?style=flat&amp;logo=Webpack&amp;logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647.svg?style=flat&amp;logo=Gulp&amp;logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=flat&amp;logo=Jest&amp;logoColor=white)
 
 
 
@@ -37,6 +40,9 @@
 
 ###### Other tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&amp;logo=Git&amp;logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&amp;logo=Postman&amp;logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&amp;logo=Swagger&amp;logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat&amp;logo=ESLint&amp;logoColor=white)
 
 ---
 ### Codewars stats:
