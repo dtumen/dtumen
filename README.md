@@ -23,8 +23,9 @@
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=flat&amp;logo=React-Router&amp;logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&amp;logo=Bootstrap&amp;logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat&amp;logo=Tailwind-CSS&amp;logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785.svg?style=flat&amp;logo=Storybook&amp;logoColor=white)
 ![Styled-components](https://img.shields.io/badge/Styled%E2%80%93components-DB7093.svg?style=flat&amp;logo=Styled-components&amp;logoColor=black)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785.svg?style=flat&amp;logo=Storybook&amp;logoColor=white)
+
 
 
 ###### Back-End && ORM && DB
